@@ -4,35 +4,24 @@ All of my projects are available at [...](...)
 💻 Software Development
 
 Languages: C, C++, C#, Java, Kotlin, Python
-
-Frameworks & Tools: Qt, Unity
+Frameworks & Tools: Qt, Unity, JavaFX, 
 
 🌐 Web Development
-
 Frontend: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, Vuetify
-
 Backend: Node.js
-
 UI/UX Tools: Figma
 
 📱 Mobile Development
-
 Android (Java & Kotlin)
 
 🗄️ Databases
-
 MySQL, MariaDB, PostgreSQL, MongoDB
 
 ⚙️ DevOps & Tools
-
 Git, GitHub
-
 Jenkins
-
 Postman
-
 Linux
 
 📊 Data Visualization
-
 Chart.js
