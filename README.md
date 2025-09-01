@@ -1,27 +1,27 @@
 All of my projects are available at [...](...)
 
-🚀 Skills Overview
-💻 Software Development
+## 🚀 Skills Overview
 
-Languages: C, C++, C#, Java, Kotlin, Python
-Frameworks & Tools: Qt, Unity, JavaFX, 
+### 💻 Software Development
+- **Languages**: C, C++, C#, Java, Kotlin, Python  
+- **Frameworks & Tools**: Qt, Unity, JavaFX  
 
-🌐 Web Development
-Frontend: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, Vuetify
-Backend: Node.js
-UI/UX Tools: Figma
+### 🌐 Web Development
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, Vuetify  
+- **Backend**: Node.js  
+- **UI/UX Tools**: Figma  
 
-📱 Mobile Development
-Android (Java & Kotlin)
+### 📱 Mobile Development
+- Android (Java & Kotlin)  
 
-🗄️ Databases
-MySQL, MariaDB, PostgreSQL, MongoDB
+### 🗄️ Databases
+- MySQL, MariaDB, PostgreSQL, MongoDB  
 
-⚙️ DevOps & Tools
-Git, GitHub
-Jenkins
-Postman
-Linux
+### ⚙️ DevOps & Tools
+- Git, GitHub  
+- Jenkins  
+- Postman  
+- Linux  
 
-📊 Data Visualization
-Chart.js
+### 📊 Data Visualization
+- Chart.js  
