@@ -3,8 +3,8 @@ All of my projects are available at [...](...)
 ## 🚀 Skills Overview
 
 ### 💻 Software Development
-- **Languages**: C, C++, C#, Java, Kotlin, Python  
-- **Frameworks & Tools**: Qt, Unity, JavaFX  
+- **Languages**: C, C++, Java, Kotlin, Python  
+- **Frameworks & Tools**: QT, JavaFX  
 
 ### 🌐 Web Development
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, Vuetify  
