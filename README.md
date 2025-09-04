@@ -24,4 +24,4 @@ All of my projects are available at [...](...)
 - Linux  
 
 ### 📊 Data Visualization
-- Chart.js  
+- Matplotlib (Pyplot), Pandas, Chart.js
