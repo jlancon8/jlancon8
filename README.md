@@ -7,7 +7,7 @@ All of my projects are available at [...](...)
 - **Frameworks & Tools**: QT, JavaFX  
 
 ### 🌐 Web Development
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, Vuetify  
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, Vuetify, TailwindCSS, ReactJS
 - **Backend**: Node.js  
 - **UI/UX Tools**: Figma  
 
