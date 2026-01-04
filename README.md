@@ -23,8 +23,8 @@ All of my projects are available [here](https://jlancon.vercel.app/)
 - Postman  
 - Linux  
 
-🎮 Game Development
-Unity (C#)
+### 🎮 Game Development
+- Unity (C#)
 
 ### 📊 Data Visualization
 - Matplotlib (Pyplot), Pandas, Chart.js
