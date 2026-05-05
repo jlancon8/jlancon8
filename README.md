@@ -3,8 +3,8 @@ All of my projects are available [here](https://jlancon.vercel.app/)
 ## 🚀 Skills Overview
 
 ### 💻 Software Development
-- **Languages**: C, C++, Java, Kotlin, Python  
-- **Frameworks & Tools**: QT, JavaFX  
+- **Languages**: C, Java, Kotlin, Python  
+- **Frameworks & Tools**: JavaFX  
 
 ### 🌐 Web Development
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, Vuetify, TailwindCSS, ReactJS
