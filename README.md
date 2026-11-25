@@ -1,30 +1,48 @@
 All of my projects are available [here](https://jlancon.vercel.app/)
 
-## 🚀 Skills Overview
+## Skills Overview
 
-### 💻 Software Development
-- **Languages**: C, Java, Kotlin, Python  
-- **Frameworks & Tools**: JavaFX  
+### Software & Mobile
+- **Languages**: C, Java, Kotlin, Python, Swift
+- **Frameworks & Tools**: JavaFX, QT
 
-### 🌐 Web Development
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, Vuetify, TailwindCSS, ReactJS
-- **Backend**: Node.js  
-- **UI/UX Tools**: Figma  
+### Front-end & Design
+- **Web**: HTML5, CSS3, JavaScript, Vue.js, ReactJS
+- **Styling**: TailwindCSS, Bootstrap, Vuetify
+- **UI/UX Tools**: Figma
 
-### 📱 Mobile Development
-- Android (Java & Kotlin)  
+### Back-end & Databases
+- **Backend**: Node.js
+- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB
 
-### 🗄️ Databases
-- MySQL, MariaDB, PostgreSQL, MongoDB  
+### DevOps & Tools
+- Git, GitHub
+- Jenkins
+- Postman, Swagger
+- Linux
 
-### ⚙️ DevOps & Tools
-- Git, GitHub  
-- Jenkins  
-- Postman  
-- Linux  
+### Testing & Quality
+- JUnit (unit testing), Cucumber, Gherkin, Acceptance testing
 
-### 🎮 Game Development
+### Game Development
 - Unity (C#)
 
 ### 📊 Data Visualization
 - Matplotlib (Pyplot), Pandas, Chart.js
+
+## Currently Learning
+
+### Web Development
+- PHP, Laravel, Celery
+
+### AI & Machine Learning
+- Machine Learning, Artificial Intelligence (XGBoost, scikit-learn...)
+  
+### Embedded Systems
+- Arduino, ESP32
+
+### Networking & Java Programming
+- TCP server, Multithreading
+
+### Databases & DevOps
+- Cassandra, Docker
