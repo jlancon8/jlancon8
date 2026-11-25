@@ -6,6 +6,9 @@ All of my projects are available [here](https://jlancon.vercel.app/)
 - **Languages**: C, Java, Kotlin, Python, Swift
 - **Frameworks & Tools**: JavaFX, QT
 
+### Embedded Systems
+- Arduino, ESP32
+
 ### Front-end & Design
 - **Web**: HTML5, CSS3, JavaScript, Vue.js, ReactJS
 - **Styling**: TailwindCSS, Bootstrap, Vuetify
@@ -13,12 +16,13 @@ All of my projects are available [here](https://jlancon.vercel.app/)
 
 ### Back-end & Databases
 - **Backend**: Node.js
-- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB
+- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Cassandra
 
 ### DevOps & Tools
 - Git, GitHub
 - Jenkins
 - Postman, Swagger
+- Docker
 - Linux
 
 ### Testing & Quality
@@ -28,7 +32,8 @@ All of my projects are available [here](https://jlancon.vercel.app/)
 - Unity (C#)
 
 ### 📊 Data Visualization
-- Matplotlib (Pyplot), Pandas, Chart.js
+- Matplotlib (Pyplot), Pandas, Chart.js, ECharts
+
 
 ## Currently Learning
 
@@ -37,12 +42,3 @@ All of my projects are available [here](https://jlancon.vercel.app/)
 
 ### AI & Machine Learning
 - Machine Learning, Artificial Intelligence (XGBoost, scikit-learn...)
-  
-### Embedded Systems
-- Arduino, ESP32
-
-### Networking & Java Programming
-- TCP server, Multithreading
-
-### Databases & DevOps
-- Cassandra, Docker
